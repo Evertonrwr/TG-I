@@ -7,7 +7,7 @@ Desenvolvedor Junior Full Stack, com experiência em C#, .Net, ASPNET, Entity Fr
 
 Comecei a minha jornada no mundo tech no segundo semestre de 2021 onde comecei o curso de ADS na Fatec. Em abril de 2022 consegui minha primeira oportunidade como estagiário em uma das empresas que participam do projeto API, lá foi onde adquiri meus primeiros conhecimentos em programação desenvolvendo novas features e corrigindo bugs existentes, onde estagiei até o segundo semestre de 2022. 
 <br>
-Em 2023 foi me dada a oportunidade de trabalhar como Junior em uma empresa americana onde trabalho atualmente. Atuo na area de bugs, corrigindo e implementandos melhorias para o sistema de interno da empresa.
+Em 2023 foi me dada a oportunidade de trabalhar como Junior em uma empresa americana chamada The Methodical Group onde trabalho atualmente. Atuo na area de bugs, corrigindo e implementandos melhorias para o sistema de interno da empresa.
 
 ## CONTATO
 [LinkedIn](www.linkedin.com/in/everton-rocha-1a456b20b)
