@@ -1,4 +1,6 @@
 
+<p align="center"><img src="https://github.com/Evertonrwr/TG-I/assets/86848721/20e47cd6-8cb2-43ff-9c81-18543a8359c6" height="250" width="250"></p>
+
 ## SOBRE MIM
 
 Estudante de Análise e Desenvolvimento de sistemas na Fatec - SJC, Cursando o 5° semestre.
