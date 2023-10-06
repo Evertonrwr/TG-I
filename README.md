@@ -39,22 +39,55 @@ Foi desenvolvida uma solução em Python, HTML & CSS que automatiza a clonagem d
 
 ### Tecnologias Utilizadas  
 
-<div>
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
- </br>
-  
-**Figma:** Utilazado para criação dos wireframes; </br></br>
-**HTML5:** Utilizado para a criação das telas;  </br></br>
-**CSS3:** Utilizado para estilização das telas;  </br></br>
-**GITHUB:** Utilazado para armazenamento do projeto;  </br></br>
-**PYTHON:** Utilizado para clonagem de repositórios e raspagem dos dados;
 
- </br>
-</div>
+  <table>
+    <th>Tecnologia</th>
+    <th>Utilização</th>
+    <tr>
+      <td>
+         <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+      </td>
+      <td>
+        Utilizado para criação dos wireframes
+      </td>
+    </tr>
+    <tr>
+      <td>
+         <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
+      </td>
+      <td>
+        Utilizado para a criação das telas
+      </td>
+    </tr>
+     <tr>
+      <td>
+           <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
+      </td>
+      <td>
+        Utilizado para estilização das telas
+      </td>
+    </tr>
+     <tr>
+      <td>
+          <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
+      </td>
+      <td>
+        Utilazado para armazenamento do projeto
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
+      </td>
+      <td>
+        Utilizado para clonagem de repositórios e raspagem dos dados
+      </td>
+    </tr>
+  
+  </table>
+
+### Contribuições pessoais
+Participei como desenvolvedor, reponsável pela prototipação, criação e estilização das telas.
 
 #### Hard Skills
 
