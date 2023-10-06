@@ -87,7 +87,7 @@ Foi desenvolvida uma solução em Python, HTML & CSS que automatiza a clonagem d
   </table>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, reponsável pela prototipação, criação e estilização das telas.
+Participei como desenvolvedor, responsável pela prototipação, criação e estilização das telas.
 
 #### Hard Skills
 
