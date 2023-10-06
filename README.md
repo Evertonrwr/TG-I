@@ -45,26 +45,32 @@ Foi desenvolvida uma solução em Python, HTML & CSS que automatiza a clonagem d
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
-  <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
-  <img width="50 rem" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"/> AZURE
-  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/> DOCKER
+ </br>
+  
+**Figma:** Utilazado para criação dos wireframes; </br></br>
+**HTML5:** Utilizado para a criação das telas;  </br></br>
+**CSS3:** Utilizado para estilização das telas;  </br></br>
+**GITHUB:** Utilazado para armazenamento do projeto;  </br></br>
+**PYTHON:** Utilizado para clonagem de repositórios e raspagem dos dados;
+
+ </br>
 </div>
 
 #### Hard Skills
 
-1. **Programação em Python:** Usada para automação da clonagem de repositórios e a raspagem de dados.
+1. **Programação em Python:** Usada para automação da clonagem de repositórios e a raspagem de dados. ★★★☆☆
 
-2. **Desenvolvimento Web (HTML/CSS):** Usada para criação e estilização do website.
+2. **Desenvolvimento Web (HTML/CSS):** Usada para criação e estilização do website. ★★★★☆
    
-3. **Controle de Versão (Git):** Usada para o controle e versionamento do código, clonagem e upload de projetos. 
+3. **Controle de Versão (Git):** Usada para o controle e versionamento do código, clonagem e upload de projetos. ★★★★☆
 
 
 #### Soft Skills  
 
-1. **Trabalho em equipe:** Foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
+1. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
 
-2. **Organização:** Para que pudéssemos cumprir os prazos e para que entregassemos o melhor resultado foi necessário organização.
+2. **Organização:** Para que pudéssemos cumprir os prazos e entregar o melhor resultado foi necessário organização.
    
-3. **Comunicação:** Para que todos nós estivemos na mesma páginas e para que não tivessemos conflitos, foi necessário desenvolver uma comunição mais efetiva.
+3. **Comunicação:** Durante o processo de desenvolvimento varias dúvidas surgem e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
 
 
