@@ -106,4 +106,17 @@ Participei como desenvolvedor, responsável pela prototipação, criação e est
    
 3. **Comunicação:** Durante o processo de desenvolvimento varias dúvidas surgem e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
 
+</br>
+
+- ### API - 2° SEMESTRE 2022.1
+  
+</br>
+
+**CLIENTE :** PRO4TECH
+</br>
+
+O projeto tem como objetivo unificar mensagens de diversos canais de comunicação em um só lugar, assim facilitando a comunicação entre cliente e empresa, como também, garantir que nenhuma mensagem seja perdida ou fique sem resposta.
+
+Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma unica base de dados. A aplicação permite que mensagens sejam cadastradas, gerenciamento de usuários, definição de nível de acesso dentro da solução e geração de relatório de mensagens.
+
 
