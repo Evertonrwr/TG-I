@@ -283,7 +283,7 @@ A solução tinha que ser responsiva para que possa ser utilizada tanto em compu
 </table>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, resposável pela conexão do backend & frontend, desenvolvimento do cálculo, criação de interfaces;</br>
+Participei como desenvolvedor, resposável pela conexão do backend & frontend, desenvolvimento do cálculo e  criação de interfaces;</br>
 Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Hard Skills
@@ -400,6 +400,10 @@ A solução permite gerenciar usuários e suas permissões, com diferentes níve
     </tr>
   
 </table>
+
+### Contribuições pessoais
+Participei como desenvolvedor, resposável pela autenticação do usuário, conexão backend & frontend, manipulação dos dados e correção de problemas enfrentados durante o processo de desenvolvimento;</br>
+Também fui master, reponsável pelo gerencimento da equipe;
 
    
 
