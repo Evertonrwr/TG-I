@@ -283,7 +283,7 @@ A solução tinha que ser responsiva para que possa ser utilizada tanto em compu
 </table>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, resposável pela conexão do backend & frontend, desenvolvimento do cálculo e  criação de interfaces;</br>
+Participei como desenvolvedor, responsável pela conexão do backend & frontend, desenvolvimento do cálculo e  criação de interfaces;</br>
 Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Hard Skills
@@ -402,7 +402,7 @@ A solução permite gerenciar usuários e suas permissões, com diferentes níve
 </table>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, resposável pela autenticação do usuário, conexão backend & frontend, manipulação dos dados e correção de problemas enfrentados durante o processo de desenvolvimento;</br>
+Participei como desenvolvedor, responsável pela autenticação do usuário, conexão backend & frontend, manipulação dos dados e correção de problemas enfrentados durante o processo de desenvolvimento;</br>
 Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Hard Skills
@@ -415,10 +415,11 @@ Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Soft Skills  
 
-1. **Organização:** Neste projeto eu fui master, me organizar para gerenciar a equipe foi de suma importância.
+1. **Organização:** Neste projeto também fui master, me organizar para gerenciar a equipe foi de suma importância.
 
-2. **Flexibilidade:** Devido a alguns impasses que tivemos durante o processo de desnvolvimento tivemos que mudar o cálculo varias vezes até atingir o objetivo, dessa forma ser flexivel para tais mudanças foi algo imprescindível
-3. **Autodidatismo:** Tivemos contato com duas novas tecnologias nesse projeto (Typescript e React), além de termos que aprender um pouco mais sobre o pouso e seus fatores, então tive que desenvolver autodidatismo para aprender um pouco mais sobre esses assuntos para poder entregar um trabalho excelente.
+2. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
+   
+3. **Autodidatismo:** Tive que desenvolver autodidatismo para aprender um pouco mais sobre esses PostgreSQL, já que não foi um assunto abordado dentro de classe.
    
 
 
