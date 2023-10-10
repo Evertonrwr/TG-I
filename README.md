@@ -300,6 +300,105 @@ Também fui master, reponsável pelo gerencimento da equipe;
 
 2. **Flexibilidade:** Devido a alguns impasses que tivemos durante o processo de desnvolvimento tivemos que mudar o cálculo varias vezes até atingir o objetivo, dessa forma ser flexivel para tais mudanças foi algo imprescindível
 3. **Autodidatismo:** Tivemos contato com duas novas tecnologias nesse projeto (Typescript e React), além de termos que aprender um pouco mais sobre o pouso e seus fatores, então tive que desenvolver autodidatismo para aprender um pouco mais sobre esses assuntos para poder entregar um trabalho excelente.
+
+
+</br>
+
+- ### API - 4° SEMESTRE 2023.1
+  
+</br>
+
+**CLIENTE :** IONIC HEALTH
+</br>
+
+O projeto consiste em desenvolver uma aplicação web moderna e responsiva que permite aos usuários criar e gerenciar tickets de duas categorias: "hotfix" para problemas críticos e "feature" para solicitações de novas funcionalidades.
+
+A solução permite gerenciar usuários e suas permissões, com diferentes níveis de acesso. Os tickets podem ser categorizados por tipo, prioridade e departamento, facilitando sua organização e filtragem. Os usuários podem visualizar e atualizar os tickets que criaram ou foram atribuídos a eles. A aplicação também inclui recursos de manutenção para gerenciar departamentos, tipos de tickets e prioridades. É uma solução completa para gerenciar solicitações de suporte e problemas, com um design moderno e acesso via web.
+
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=ts"> <br>
+            <strong>TypeScript</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolvimento do backend e conexão com o banco de dados.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=js"> <br>
+            <strong>JavaScript</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolvimento do frontend.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=react"> <br>
+            <strong>React</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework utilizado para desenvolvimento de interfaces.
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+      <p align="center">
+          <img src="https://skillicons.dev/icons?i=tailwind"> <br>
+          <strong>Tailwind</strong>
+      </p>
+      </td>
+      <td style="text-align:center">
+          Framework utilizado para estilização das interfaces.
+      </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=postgresql"><strong><br>PostgreSQL
+        </p>
+        </td>
+        <td style="text-align:center">
+            Banco de dados do projeto.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vscode">
+            <strong><br>Visual Studio Code</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            IDE para o desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+  
+</table>
+
    
 
 
