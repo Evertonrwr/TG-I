@@ -119,4 +119,71 @@ O projeto tem como objetivo unificar mensagens de diversos canais de comunicaç�
 
 Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma unica base de dados. A aplicação permite que mensagens sejam cadastradas, gerenciamento de usuários, definição de nível de acesso dentro da solução e geração de relatório de mensagens.
 
+### Tecnologias Utilizadas  
+
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=java"> <br>
+            <strong>Java</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para criação das interfaces quanto da conexão com o banco de dados.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=mysql"><strong><br>MySQL
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado como banco de dados do projeto.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" width=50> <br>
+            <strong>NetBeans</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            IDE para o desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+ 
+</table>
+
+ </br>
+
+#### Hard Skills
+
+1. **Programação em JAVA::** Usada para criação das telas e gerenciamento dos dados. ★★☆☆☆
+
+2. **Banco de Dados (SQL):** Usado para armazenamento dos dados (Mensagens/Usuários). ★★★★☆
+
+#### Soft Skills  
+
+1. **Traballho em equipe:** Esse projeto foi o nosso primeiro contato com uma linguagem orientada objeto, por isso ter uma equipe onde pudessemos compartilhar nossas dificuldades e nos ajudar foi essencial para que conseguissemos concluir o desafio.
+
+2. **Gerenciamento de tempo:** Nesse projeto tivemos um tempo mais curto, foram apenas 3 sprints, então gerenciar nosso tempo para que o trabalho fosse entregue dentro da data limite foi essencial.
+   
 
