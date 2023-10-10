@@ -184,6 +184,25 @@ Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma 
 
 1. **Traballho em equipe:** Esse projeto foi o nosso primeiro contato com uma linguagem orientada objeto, por isso ter uma equipe onde pudessemos compartilhar nossas dificuldades e nos ajudar foi essencial para que conseguissemos concluir o desafio.
 
-2. **Gerenciamento de tempo:** Nesse projeto tivemos um tempo mais curto, foram apenas 3 sprints, então gerenciar nosso tempo para que o trabalho fosse entregue dentro da data limite foi essencial.
-   
+2. **Gerenciamento de tempo:** Nesse projeto tivemos um tempo mais curto, foram apenas 3 sprints, então gerenciar nosso tempo para que o trabalho fosse entregue dentro da data limite foi extremamente importante.
+
+
+</br>
+
+- ### API - 3° SEMESTRE 2022.2
+  
+</br>
+
+**CLIENTE :** EMBRAER
+</br>
+
+Esse projeto teve como objetivo criar uma aplicação onde fosse capaz de realizar o cálculo de pista mínima para o pouso de uma aeronave, assim automatizando esse processo.
+
+A solução tinha que ser responsiva para que possa ser utilizada tanto em computadores como em tablets e smartphones. Dentro da aplicação é possivel criar e gerenciar usuários, cadastrar aeronaves e dados necessários que influenciariam nos cálculos, e realizar o cálculo para pista mínima respeitando alguns critérios como marca da aeronave, motor, fatores naturais como chuva vento e etc.
+
+
+
+
+
+
 
