@@ -176,6 +176,9 @@ Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma 
 
  </br>
 
+### Contribuições pessoais
+Participei como desenvolvedor, responsável pela prototipação, criação e estilização das telas, gerenciamento dos dados e correção de problemas encontrados durante o desenvolvimento.
+
 #### Hard Skills
 
 1. **Programação em JAVA::** Usada para criação das telas e gerenciamento dos dados. ★★☆☆☆
@@ -278,6 +281,10 @@ A solução tinha que ser responsiva para que possa ser utilizada tanto em compu
     </tr>
 
 </table>
+
+### Contribuições pessoais
+Participei como desenvolvedor, resposável pela conexão do backend & frontend, desenvolvimento do cálculo, criação de interfaces;</br>
+Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Hard Skills
 
