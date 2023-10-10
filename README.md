@@ -405,6 +405,20 @@ A solução permite gerenciar usuários e suas permissões, com diferentes níve
 Participei como desenvolvedor, resposável pela autenticação do usuário, conexão backend & frontend, manipulação dos dados e correção de problemas enfrentados durante o processo de desenvolvimento;</br>
 Também fui master, reponsável pelo gerencimento da equipe;
 
+#### Hard Skills
+
+1. **Programação em Typescript:** Usada para o desenvolvimento do backend. ★★★★☆
+
+2. **Tailwind:** Usado para estilização das interfaces. ★★★☆☆
+
+3. **Banco de dados(PostgreSQL):** Usado para o armazenamento dos dados. ★★☆☆☆
+
+#### Soft Skills  
+
+1. **Organização:** Neste projeto eu fui master, me organizar para gerenciar a equipe foi de suma importância.
+
+2. **Flexibilidade:** Devido a alguns impasses que tivemos durante o processo de desnvolvimento tivemos que mudar o cálculo varias vezes até atingir o objetivo, dessa forma ser flexivel para tais mudanças foi algo imprescindível
+3. **Autodidatismo:** Tivemos contato com duas novas tecnologias nesse projeto (Typescript e React), além de termos que aprender um pouco mais sobre o pouso e seus fatores, então tive que desenvolver autodidatismo para aprender um pouco mais sobre esses assuntos para poder entregar um trabalho excelente.
    
 
 
