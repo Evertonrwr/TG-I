@@ -315,6 +315,8 @@ O projeto consiste em desenvolver uma aplicação web moderna e responsiva que p
 
 A solução permite gerenciar usuários e suas permissões, com diferentes níveis de acesso. Os tickets podem ser categorizados por tipo, prioridade e departamento, facilitando sua organização e filtragem. Os usuários podem visualizar e atualizar os tickets que criaram ou foram atribuídos a eles. A aplicação também inclui recursos de manutenção para gerenciar departamentos, tipos de tickets e prioridades. É uma solução completa para gerenciar solicitações de suporte e problemas, com um design moderno e acesso via web.
 
+### Tecnologias Utilizadas  
+
 <table>
     <tr>
         <th>Tecnologia</th>
