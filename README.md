@@ -68,13 +68,15 @@ Foi desenvolvida uma solução em Python, HTML & CSS que automatiza a clonagem d
       </td>
     </tr>
      <tr>
-      <td>
-          <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
+      <td style="text-align:center">
+          <p align="center">
+              <img src="https://skillicons.dev/icons?i=git,github"> <br>
+              <strong>GIT | GitHub </strong>
+          </p>
       </td>
-      <td>
-        Utilazado para armazenamento do projeto
+      <td style="text-align:center">
+          Utilizado para versionamento e armazenamento do código.
       </td>
-    </tr>
      <tr>
       <td>
         <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
@@ -200,6 +202,98 @@ Esse projeto teve como objetivo criar uma aplicação onde fosse capaz de realiz
 
 A solução tinha que ser responsiva para que possa ser utilizada tanto em computadores como em tablets e smartphones. Dentro da aplicação é possivel criar e gerenciar usuários, cadastrar aeronaves e dados necessários que influenciariam nos cálculos, e realizar o cálculo para pista mínima respeitando alguns critérios como marca da aeronave, motor, fatores naturais como chuva vento e etc.
 
+</br>
+
+### Tecnologias Utilizadas 
+  
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=ts"> <br>
+            <strong>TypeScript</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolvimento do backend.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=js"> <br>
+            <strong>JavaScript</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolvimento do frontend.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=react"> <br>
+            <strong>React</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework utilizado para desenvolvimento de interfaces.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=mysql"><strong><br>MySQL
+        </p>
+        </td>
+        <td style="text-align:center">
+           Banco de dados utilizado para armazenar os dados necessários
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vscode">
+            <strong><br>Visual Studio Code</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            IDE para o  desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+
+</table>
+
+#### Hard Skills
+
+1. **Programação em Typescript:** Usada para o desenvolvimento do backend. ★★★★☆
+
+2. **Programação em Javascript:** Usado para desenvolvimento do frontend. ★★★★☆
+
+3. **Programação em React:** Usado para o desenvolvimento das interfaces. ★★★★☆
+
+#### Soft Skills  
+
+1. **Organização:** Neste projeto eu fui master, me organizar para gerenciar a equipe foi de suma importância.
+
+2. **Flexibilidade:** Devido a alguns impasses que tivemos durante o processo de desnvolvimento tivemos que mudar o cálculo varias vezes até atingir o objetivo, dessa forma ser flexivel para tais mudanças foi algo imprescindível
+3. **Autodidatismo:** Tivemos contato com duas novas tecnologias nesse projeto (Typescript e React), além de termos que aprender um pouco mais sobre o pouso e seus fatores, então tive que desenvolver autodidatismo para aprender um pouco mais sobre esses assuntos para poder entregar um trabalho excelente.
+   
 
 
 
