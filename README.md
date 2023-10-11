@@ -121,6 +121,10 @@ O projeto tem como objetivo unificar mensagens de diversos canais de comunicaç�
 
 Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma unica base de dados. A aplicação permite que mensagens sejam cadastradas, gerenciamento de usuários, definição de nível de acesso dentro da solução e geração de relatório de mensagens.
 
+**Apresentação do projeto:** </br>
+[Link para o video da apresentação da ultima sprint do projeto](https://drive.google.com/file/d/1D8NgSjtFAo2R1-eeIJ9rn7Y9btVJeBS0/view?usp=sharing)
+
+
 ### Tecnologias Utilizadas  
 
 <table>
