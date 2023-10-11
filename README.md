@@ -319,6 +319,97 @@ O projeto consiste em desenvolver uma aplicação web moderna e responsiva que p
 
 A solução permite gerenciar usuários e suas permissões, com diferentes níveis de acesso. Os tickets podem ser categorizados por tipo, prioridade e departamento, facilitando sua organização e filtragem. Os usuários podem visualizar e atualizar os tickets que criaram ou foram atribuídos a eles. A aplicação também inclui recursos de manutenção para gerenciar departamentos, tipos de tickets e prioridades. É uma solução completa para gerenciar solicitações de suporte e problemas, com um design moderno e acesso via web.
 
+
+
+
+
+
+<details>
+    <summary><b>Overview do projeto</b></summary>
+    <br>
+<ul> <li> <strong> Crud de Ticket </strong> </li> </ul>
+
+![crud ticket](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/8ca5d49a-2d2c-4286-9c47-b3d564701738)
+
+
+<ul> <li> <strong> Cadastro de Ticket </strong> </li> </ul>
+
+![Cadastro Ticket](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/9bfb293e-d42d-4fe4-9ee7-e9e5d9583bc1)
+
+
+<ul> <li> <strong> Ticket aprovado ou arquivado </strong> </li> </ul>
+
+![aprovado e arquivado](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/3b4c51fc-e140-4be3-afe7-5e0d2bb1766c)
+
+
+<ul> <li> <strong> Kanban </strong> </li> </ul>
+
+![kanban](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/d1c9c3c0-f838-41ff-8289-b3d265bdad75)
+
+
+<ul> <li> <strong> Arquivado </strong> </li> </ul>
+
+![arquivado](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/101ca38d-c704-4137-a165-39e241b3b7fe)
+
+
+ <ul> <li> <strong>Diferença de Acesso </strong> </li> </ul>
+
+![acesso 2](https://user-images.githubusercontent.com/88494278/234423871-d3f89e16-bd6d-4e34-b6bc-a781753dedcb.gif)
+
+<ul> <li> <strong> Alteração de Usuário Logado</strong> </li> </ul>
+
+![updateProfile](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/89141910/62c33b50-fe43-4052-b115-7f4cf56cb8f8)
+
+<ul> <li> <strong>Crud de Equipes</strong> </li> </ul>
+
+![equipe](https://user-images.githubusercontent.com/88494278/234424115-0382f130-44c0-402e-a4a2-9cb9eb085422.gif)
+ <ul> <li> <strong> Crud de Usuários</strong> </li> </ul>
+
+![user d](https://user-images.githubusercontent.com/88494278/234424169-3d93db4d-0a81-4ea7-8580-77546297baa2.gif)
+
+ <ul> <li> <strong> Crud de Times e Equipes </strong> </li> </ul>
+
+![time e equipe](https://user-images.githubusercontent.com/88494278/234424395-568db1af-74ee-42d6-9559-c646488496fb.gif)
+
+
+<ul> <li> <strong> Avaliação dos chamados </strong> </li> </ul>
+
+![avaliar chamado](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/a71b2b87-938a-458e-9da9-5bacb63df6be)
+
+<ul> <li> <strong> Árvore dinâmica </strong> </li> </ul>
+
+![Arvore](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/cd73e933-a0bb-4c82-8d4e-cd2605bf0450)
+
+<ul> <li> <strong> Histórico do chamado </strong> </li> </ul>
+
+![Historico](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/748fe1b6-22ee-4876-89b9-c7ab3b3fac60)
+
+<ul> <li> <strong> Opção de idioma </strong> </li> </ul>
+
+![idioma](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/15896a2d-bf10-4a55-af8a-8fc592336ea5)
+
+<ul> <li> <strong> Cadastro de Solução de Chamados </strong> </li> </ul>
+
+![cadastro de solução](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/c16c8659-4814-4a4e-8af5-ea6bb35ff49e)
+
+<ul> <li> <strong> Notificação por Email </strong> </li> </ul>
+
+![notificacao por email](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/d1742324-f34f-4354-82e7-427a3d96153b)
+
+<ul> <li> <strong> Graficos Estatísticos </strong> </li> </ul>
+
+![Graficos](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/33713cb0-2968-425c-8652-e4505ee23170)
+
+
+<ul> <li> <strong> Cadastro de Usuários Interessados </strong> </li> </ul>
+
+![interessados pelo view ticket](https://github.com/Grupo-4-Fatech/API-4Semestre/assets/88494278/b41a88b6-c63e-4b08-92ac-62472b5f6d43)
+</details>
+
+
+
+
+
 ### Tecnologias Utilizadas  
 
 <table>
