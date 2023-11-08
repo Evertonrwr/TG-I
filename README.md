@@ -307,7 +307,7 @@ Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Soft Skills  
 
-1. **Organização:** Neste projeto eu fui master, me organizar para gerenciar a equipe foi de suma importância.
+1. **Organização:** Neste projeto eu fui master, então tive que desenvolver ainda mais essa skill para que pudesse gerenciar a equipe e ainda pudesse contribuir como desenvolvedor para a equipe.
 
 2. **Flexibilidade:** Devido a alguns impasses que tivemos durante o processo de desnvolvimento tivemos que mudar o cálculo varias vezes até atingir o objetivo, dessa forma ser flexivel para tais mudanças foi algo imprescindível
 3. **Autodidatismo:** Tivemos contato com duas novas tecnologias nesse projeto (Typescript e React), além de termos que aprender um pouco mais sobre o pouso e seus fatores, então tive que desenvolver autodidatismo para aprender um pouco mais sobre esses assuntos para poder entregar um trabalho excelente.
@@ -517,7 +517,7 @@ Também fui master, reponsável pelo gerencimento da equipe;
 
 #### Soft Skills  
 
-1. **Organização:** Neste projeto também fui master, me organizar para gerenciar a equipe foi de suma importância.
+1. **Comunicação:** Neste projeto também fui master e tive que resolver alguns conflitos com um dos nos nossos integrantes de equipe, então desenvolver uma comunicação mais efetiva foi de suma importância para que pudesse ser claro e não ficasse nenhum mal entendido entre nós.
 
 2. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
    
