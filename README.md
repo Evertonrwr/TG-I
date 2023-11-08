@@ -521,6 +521,106 @@ Também fui master, reponsável pelo gerencimento da equipe;
 2. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
    
 3. **Autodidatismo:** Tive que desenvolver autodidatismo para aprender um pouco mais sobre esses PostgreSQL, já que não foi um assunto abordado dentro de classe.
+
+
+</br>
+
+- ### API - 5° SEMESTRE 2023.2
+  
+</br>
+
+**CLIENTE :** IMAGEM
+</br>
+
+O objetivo é criar uma aplicação móvel que será uma ferramenta fundamental para empresas de engenharia que atuam em setores como Saneamento, Elétrica e Telecomunicações. 
+	Essa aplicação permite que os funcionários acessem, atualizem, desativem e cadastrem informações dos equipamentos ativos da empresa por meio de dispositivos móveis. Isso é crucial para a manutenção, especialmente quando a desativação temporária de equipamentos é necessária para reparos, afetando a rede de serviços e clientes. A aplicação móvel garante a atualização em tempo real do cadastro de ativos, assegurando a qualidade dos serviços prestados aos consumidores.
+
+ 
+### Tecnologias Utilizadas  
+
+
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=ts"> <br>
+            <strong>TypeScript</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para desenvolvimento do backend/frontend e conexão com o banco de dados.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=react"> <br>
+            <strong>React Native</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework utilizado para desenvolvimento de interfaces.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=mongodb"><strong><br>MongoDB
+        </p>
+        </td>
+        <td style="text-align:center">
+            Banco de dados do projeto.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vscode">
+            <strong><br>Visual Studio Code</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            IDE para o desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+  
+</table>
+
+### Contribuições pessoais
+Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualizar o burndown, responsável por fazer a conexão das telas com o nosso banco de dados, criação das navegação e estilazação da side bar utilizando como principais tecnologias o react navite como framework para criação das telas e typescipt para toda a parte do backend.
+
+#### Hard Skills
+
+1. **Programação em Typescript:** Usada para o desenvolvimento do backend. ★★★★☆
+
+2. **ReactNavite:** Usado para criação das telas mobile. ★★★☆☆
+
+3. **Banco de dados(MongoDb):** Usado para o armazenamento dos dados. ★★☆☆☆
+
+#### Soft Skills  
+
+1. **Organização:** Neste projeto também fui master, me organizar para gerenciar a equipe foi de suma importância.
+
+2. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
+   
+3. **Autodidatismo:** Tive que desenvolver autodidatismo para aprender um pouco mais sobre esses PostgreSQL, já que não foi um assunto abordado dentro de classe.
+
+
    
 
 
