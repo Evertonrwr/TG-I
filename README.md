@@ -104,9 +104,9 @@ Participei como desenvolvedor, responsável pela prototipação, criação e est
 
 1. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
 
-2. **Organização:** Para que pudéssemos cumprir os prazos e entregar o melhor resultado foi necessário organização.
+2. **Organização:** Nesse semestre nos foi introduzido o conceito de spirnts, então ara que pudéssemos cumprir os prazos e entregar o melhor resultado foi necessário organização.
    
-3. **Comunicação:** Durante o processo de desenvolvimento varias dúvidas surgem e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
+3. **Comunicação:**Como nesse semestre foi a nosso primeiro contanto com a metodologia ágil, durante o processo de desenvolvimento varias dúvidas surgiram e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
 
 </br>
 
@@ -181,7 +181,8 @@ Foi criada uma aplicação desktop, onde todas mensagens foram unifacdas em uma 
  </br>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, responsável pela prototipação, criação e estilização das telas, gerenciamento dos dados e correção de problemas encontrados durante o desenvolvimento.
+
+Participei como desenvolvedor, desempenhei um papel crucial como programador Java, utilizando o banco de dados MySQL. Além de criar as interfaces do software, estilizei as telas para torná-las atraentes aos usuários. Tive a tarefa de identificar e corrigir quaisquer problemas que surgiram ao longo do processo de construção do software em Java.
 
 #### Hard Skills
 
