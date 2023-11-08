@@ -615,11 +615,11 @@ Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualiza
 
 #### Soft Skills  
 
-1. **Organização:** Neste projeto também fui master, me organizar para gerenciar a equipe foi de suma importância.
+1. **Adaptabilidade:** Habilidade utilizada para conseguir adaptar a nova tecnologia que utilizamos, uma vez que apesar dela manter estruturas e ser similar ao React, houveram desafios no começo do projeto para que onseguissemos começar a desenvolver.
 
-2. **Trabalho em equipe:** Durante o desenvolvimento tivemos que dividir o projeto em subtasks para que ninguém do grupo ficasse sobrecarregado, desta forma, foi preciso desenvolver a colaboração do time para que pudéssemos entregar o melhor trabalho possível.
+2. **Trabalho em equipe:** Essa habilidade foi essencial para o desenvolvimento do projeto, uma vez que todos estamos desenvolvendo com tecnologias novas, e com isso houve a necessidade de aprimorar ainda mais essa skill para manter a produtividade da equipe..
    
-3. **Autodidatismo:** Tive que desenvolver autodidatismo para aprender um pouco mais sobre esses PostgreSQL, já que não foi um assunto abordado dentro de classe.
+3. **Resolução de problemas:** Em todas as fases do projeto tivemos que lidar com algumas dificuldades tecnicas. Esses obstáculos exigiram que todos os membros da equipe desenvolvessem habilidades sólidas de resolução de problemas, principalmente para identificar erros e otimizar processos.
 
 
    
