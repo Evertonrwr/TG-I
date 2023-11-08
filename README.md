@@ -534,7 +534,8 @@ Também fui master, reponsável pelo gerencimento da equipe;
 
 O objetivo é criar uma aplicação móvel que será uma ferramenta fundamental para empresas de engenharia que atuam em setores como Saneamento, Elétrica e Telecomunicações. 
 	Essa aplicação permite que os funcionários acessem, atualizem, desativem e cadastrem informações dos equipamentos ativos da empresa por meio de dispositivos móveis. Isso é crucial para a manutenção, especialmente quando a desativação temporária de equipamentos é necessária para reparos, afetando a rede de serviços e clientes. A aplicação móvel garante a atualização em tempo real do cadastro de ativos, assegurando a qualidade dos serviços prestados aos consumidores.
-
+ 
+<a href="https://drive.google.com/drive/folders/1Og0b9FWHXi99MZtWmJ52ujNFEWB1odoa" target="_blank">Apresentação do projeto</a>
  
 ### Tecnologias Utilizadas  
 
@@ -602,13 +603,13 @@ O objetivo é criar uma aplicação móvel que será uma ferramenta fundamental 
 </table>
 
 ### Contribuições pessoais
-Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualizar o burndown, responsável por fazer a conexão das telas com o nosso banco de dados, criação das navegação e estilazação da side bar utilizando como principais tecnologias o react navite como framework para criação das telas e typescipt para toda a parte do backend.
+Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualizar o burndown, responsável por fazer a conexão das telas com o nosso banco de dados, criação das navegação e estilazação da side bar utilizando como principais tecnologias o react navite como framework para criação das telas e typescript para toda a parte do backend.
 
 #### Hard Skills
 
 1. **Programação em Typescript:** Usada para o desenvolvimento do backend. ★★★★☆
 
-2. **ReactNavite:** Usado para criação das telas mobile. ★★★☆☆
+2. **React Navite:** Usado para criação das telas mobile. ★★★☆☆
 
 3. **Banco de dados(MongoDb):** Usado para o armazenamento dos dados. ★★☆☆☆
 
