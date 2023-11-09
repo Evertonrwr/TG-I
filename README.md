@@ -9,7 +9,7 @@ Desenvolvedor Junior Full Stack, com experiência em C#, .Net, ASPNET, Entity Fr
 
 Comecei a minha jornada no mundo tech no segundo semestre de 2021 onde comecei o curso de ADS na Fatec. Em abril de 2022 consegui minha primeira oportunidade como estagiário em uma das empresas que participam do projeto API, lá foi onde adquiri meus primeiros conhecimentos em programação desenvolvendo novas features e corrigindo bugs existentes, onde estagiei até o segundo semestre de 2022. 
 <br>
-Em 2023 foi me dada a oportunidade de trabalhar como Junior em uma empresa americana chamada The Methodical Group onde trabalho atualmente. Atuo na area de desenvolvimento e QA, corrigindo e implementandos melhorias para o sistema de interno da empresa.
+Em 2023 foi me dada a oportunidade de trabalhar como Junior em uma empresa americana chamada The Methodical Group onde trabalho atualmente. Atuo na area de desenvolvimento e QA, corrigindo e implementando melhorias para o sistema de interno da empresa.
 
 ## CONTATO
 [LinkedIn](www.linkedin.com/in/everton-rocha-1a456b20b)
@@ -106,7 +106,7 @@ Participei como desenvolvedor, responsável pela prototipação, criação e est
 
 2. **Organização:** Nesse semestre nos foi introduzido o conceito de spirnts, então ara que pudéssemos cumprir os prazos e entregar o melhor resultado foi necessário organização.
    
-3. **Comunicação:**Como nesse semestre foi a nosso primeiro contanto com a metodologia ágil, durante o processo de desenvolvimento varias dúvidas surgiram e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
+3. **Comunicação:** Como nesse semestre foi a nosso primeiro contanto com a metodologia ágil, durante o processo de desenvolvimento varias dúvidas surgiram e para que todos estivessemos na mesma página e para que não tivessemos conflitos, foi necessário desenvolver uma comunicação mais efetiva.
 
 </br>
 
@@ -186,7 +186,7 @@ Participei como desenvolvedor, desempenhei um papel crucial como programador Jav
 
 #### Hard Skills
 
-1. **Programação em JAVA::** Usada para criação das telas e gerenciamento dos dados. ★★☆☆☆
+1. **Programação em JAVA:** Usada para criação das telas e gerenciamento dos dados. ★★☆☆☆
 
 2. **Banco de Dados (SQL):** Usado para armazenamento dos dados (Mensagens/Usuários). ★★★★☆
 
@@ -294,8 +294,8 @@ https://github.com/Evertonrwr/TG-I/assets/86848721/a32af09d-475b-4df0-8154-f9250
 </table>
 
 ### Contribuições pessoais
-Participei como desenvolvedor, responsável pela conexão do backend & frontend, desenvolvimento do cálculo e  criação de interfaces;</br>
-Também fui master, reponsável pelo gerencimento da equipe;
+Participei como desenvolvedor, responsável pela conexão do backend & frontend, desenvolvimento do cálculo e  criação de interfaces.
+Também fui master, responsável pelo gerencimento da equipe.
 
 #### Hard Skills
 
@@ -505,7 +505,7 @@ A solução permite gerenciar usuários e suas permissões, com diferentes níve
 
 ### Contribuições pessoais
 Participei como desenvolvedor, responsável pela autenticação do usuário, conexão backend & frontend, manipulação dos dados e correção de problemas enfrentados durante o processo de desenvolvimento;</br>
-Também fui master, reponsável pelo gerencimento da equipe;
+Também fui master, responsável pelo gerencimento da equipe;
 
 #### Hard Skills
 
@@ -604,7 +604,7 @@ O objetivo é criar uma aplicação móvel que será uma ferramenta fundamental 
 </table>
 
 ### Contribuições pessoais
-Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualizar o burndown, responsável por fazer a conexão das telas com o nosso banco de dados, criação das navegação e estilazação da side bar utilizando como principais tecnologias o react navite como framework para criação das telas e typescript para toda a parte do backend.
+Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualizar o burndown, responsável por fazer a conexão das telas com o nosso banco de dados, criação das navegação e estilização da side bar utilizando como principais tecnologias o react navite como framework para criação das telas e typescript para toda a parte do backend.
 
 #### Hard Skills
 
