@@ -3,7 +3,7 @@
 
 ## SOBRE MIM
 
-Estudante de Análise e Desenvolvimento de sistemas na Fatec - SJC, Cursando o 5° semestre.
+Estudante de Análise e Desenvolvimento de sistemas na Fatec - SJC, Cursando o 6° semestre.
 <br>
 Desenvolvedor Junior Full Stack, com experiência em C#, .Net, ASPNET, Entity Framework,  Angular, React, SQL Server, Javascript & Typescript.
 
