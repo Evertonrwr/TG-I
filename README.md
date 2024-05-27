@@ -5,7 +5,7 @@
 
 Estudante de Análise e Desenvolvimento de sistemas na Fatec - SJC, Cursando o 6° semestre.
 <br>
-Desenvolvedor Junior Full Stack, com experiência em C#, .Net, ASPNET, Entity Framework,  Angular, React, SQL Server, Javascript & Typescript.
+Desenvolvedor Full Stack, com experiência em C#, .Net, ASPNET, Entity Framework,  Angular, React, SQL Server, Javascript & Typescript.
 
 Comecei a minha jornada no mundo tech no segundo semestre de 2021 onde comecei o curso de ADS na Fatec. Em abril de 2022 consegui minha primeira oportunidade como estagiário em uma das empresas que participam do projeto API, lá foi onde adquiri meus primeiros conhecimentos em programação desenvolvendo novas features e corrigindo bugs existentes, onde estagiei até o segundo semestre de 2022. 
 <br>
@@ -621,6 +621,189 @@ Atuei como master e desenvolvedor, reponsável por gerenciar a equipe e atualiza
 2. **Trabalho em equipe:** Essa habilidade foi essencial para o desenvolvimento do projeto, uma vez que todos estamos desenvolvendo com tecnologias novas, e com isso houve a necessidade de aprimorar ainda mais essa skill para manter a produtividade da equipe..
    
 3. **Resolução de problemas:** Em todas as fases do projeto tivemos que lidar com algumas dificuldades tecnicas. Esses obstáculos exigiram que todos os membros da equipe desenvolvessem habilidades sólidas de resolução de problemas, principalmente para identificar erros e otimizar processos.
+
+</br>
+
+- ### API - 6° SEMESTRE 2024.1
+  
+</br>
+
+
+
+
+</br>
+
+**CLIENTE :** ALTAVE
+</br>
+
+### Visão do Projeto
+
+Desenvolver uma aplicação web onde seja possível consultar, atualizar, desativar e cadastrar dados das redzones, departamentos e usuários e monitorar o fluxo de pessoas que adentram uma redzone, via aplicação web.
+
+## Video
+***Por favor, para o carregamento das gifs espere alguns segundos.***
+- Sistema de Login e Niveis de Usuarios
+![niveis de usuario](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/d0899ce8-94c8-4f27-8a21-bb38c2bb03d4)
+- Recuperação de Senha
+![recuperar senha](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/b0ceb03f-7854-40ec-9085-f4d385b3bdee)
+- Tela de Perfil
+![tela de perfil](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/9fb36c56-11a9-456b-a6b5-5d947962004c)
+- Geração de Relatórios de Departamentos
+![geração de relatorio](https://github.com/4-Fatech/API-6SEM-Docs/assets/88987612/2381ede9-dc2e-4bcb-a2b8-0176df4c4575)
+
+- IA
+[link](https://drive.google.com/drive/folders/1j6hTLl_RKR6bb-RFbEqQ4ryYUkJfwjLF?usp=sharing)
+
+
+## Tecnologias adotadas na solução
+
+As tecnologias adotadas para a solução foram as seguintes:
+
+<table>
+    <tr>
+        <th>Tecnologia</th>
+        <th>Utilização</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=java"> <br>
+            <strong>JAVA</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Linguagem de programação POO, utilizado no desenvolvimento do servidor back-end.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=spring"> <br>
+            <strong>Spring Boot</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework do Java, utilizado no desenvolvimento do servidor back-end.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vue"> <br>
+            <strong>Vue</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework utilizado para desenvolvimento e estilização de interfaces simples e interativas.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vuetify"> <br>
+            <strong>Vuetify</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Framework responsivo baseado em Vuejs utilizado para estilização e responsividade das telas.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=supabase"><strong><br>Supabase
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado como banco de dados do projeto.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="../img/ultra.svg"><strong><br>Ultralytics YoloV8
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para treinamento da IA e conexão ao banco de dados.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=py"><strong><br>Python
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para manuseio da IA.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=azure">
+            <strong><br>Azure</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado como ferramenta de gestão da equipe.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=vscode">
+            <strong><br>Visual Studio Code</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado como ferramenta de apoio para o desenvolvimento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <p align="center">
+                <img src="https://skillicons.dev/icons?i=git,github"> <br>
+                <strong>GIT | GitHub </strong>
+            </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para versionamento e armazenamento do código.
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=discord"> <br>
+            <strong>Discord</strong>
+        </p>
+        </td>
+        <td style="text-align:center">
+            Utilizado para comunicação do time.
+        </td>
+    </tr>
+</table>
+
+## Contribuições Pessoais
+
+Para a construção do projeto, minha contribuição foi como master e desenvolvedor backend. Fiquei responsável por garatir que os principios ageis estavam sendo implementados corretamente e também contribui para a criação da lógica de contagem de pessoas que entram e saem das redzones.
+
+### Hard Skills
+
+- **Programação em Java com Spring Boot:** ★★★☆☆
+
+- **Desenvolvimento Web em Vue:** ★★★☆☆
+
+- **Banco de Dados (Supabase):** ★★★☆☆
+
+- **Desenvolvimento e treinamento de uma IA (YoloV8):** ★★★★☆
+
+- **Controle de Versão (Git):** ★★★★☆
+
+### Soft Skills
+
+1. **Resolução de problemas:** Em todas as fases do projeto tivemos que lidar com algumas com a IA. Esses obstáculos exigiram melhorias contantes no nosso modelo e lógica usada.
+2. **Autodidatismo:** Tive que desenvolver autodidatismo para aprender um pouco mais sobre esses IA e JAVA, requisitos do projeto.
 
 
    
