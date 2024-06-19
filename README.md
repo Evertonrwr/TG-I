@@ -1,5 +1,6 @@
 
-<p align="center"><img src="https://github.com/Evertonrwr/TG-I/assets/86848721/20e47cd6-8cb2-43ff-9c81-18543a8359c6" height="250" width="250"></p>
+<p align="center"><img src="https://github.com/Evertonrwr/TG-I/assets/86848721/063aed40-f421-466e-9f80-451e71a1c7d6" height="250" width="250"></p>
+
 
 ## SOBRE MIM
 
